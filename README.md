@@ -1,0 +1,2 @@
+# NewsTeam
+GitHub Pages
